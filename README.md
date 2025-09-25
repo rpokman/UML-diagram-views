@@ -15,6 +15,7 @@ The goal is to provide a clear blueprint of the system before implementation.
 This article explains the purpose of each diagram type and includes a **UML symbol glossary** with descriptions and examples.
 
 ## Team
-[rpokman](https://github.com/rpokman)  
-[Schps](https://github.com/Schpser)
+[- rpokman](https://github.com/rpokman)  
+
+[- Schps](https://github.com/Schpser)
 ---
