@@ -18,4 +18,5 @@ This article explains the purpose of each diagram type and includes a **UML symb
 [rpokman](https://github.com/rpokman)
 
 [Schps](https://github.com/Schpser)
+
 ---
