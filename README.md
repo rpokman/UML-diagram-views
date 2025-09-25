@@ -19,6 +19,6 @@ This article explains the purpose of each diagram type and includes a **UML symb
 
 [Schps](https://github.com/Schpser)
 
-[Nyratech678](https://github.com/Nyratech678)
+[nyratech](https://github.com/Nyratech678)
 
 ---
